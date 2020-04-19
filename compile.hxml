@@ -1,0 +1,10 @@
+-lib heaps
+-lib actuate
+-lib actuate
+-lib hxbit
+-D resourcesPath=bin/res
+-D dump=pretty
+-cp src
+-js Game.js
+-main Game
+

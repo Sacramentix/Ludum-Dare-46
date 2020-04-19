@@ -1,0 +1,13 @@
+-lib heaps
+-lib hldx
+-lib actuate
+-lib hxbit
+-cp src
+-D resourcesPath=bin/res
+-hl bin/GameHL.hl
+-main Game
+-debug
+
+#--next 
+
+#-cmd cd bin & copy GameHL.hl PrimeStalker & cd PrimeStalker & ren GameHL.hl hlboot.dat 
